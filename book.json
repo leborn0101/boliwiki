@@ -18,4 +18,10 @@
         "sitemap-general"
     ]
     
+    "pluginsConfig": {
+        "sitemap-general": {
+            "prefix": "http://zitiao.org/simple/"
+        }
+    }
+    
 }
