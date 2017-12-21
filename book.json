@@ -17,10 +17,4 @@
         "theme-official",
         "sitemap-general"
     ],
-
-    "pluginsConfig": {
-        "sitemap-general": {
-            "prefix": "http://211.159.159.156:4000/boliwiki/"
-        }
-    }
 }
